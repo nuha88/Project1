@@ -18,7 +18,7 @@ $(function() {
       },
       password: {
         required: true,
-        minlength: 5
+        minlength: 8
       }
     },
     // Specify validation error messages
