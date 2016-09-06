@@ -8,6 +8,8 @@ Body{
   padding-top: 100px;
  }
  
+/** Menu**/
+ 
 #Menu{
   margin-left:350px;
   margin-top:100;
@@ -59,7 +61,8 @@ Body{
    opacity:100;
    
  }
- 
+
+/**Form**/ 
  
  form{
    text-align:center;
